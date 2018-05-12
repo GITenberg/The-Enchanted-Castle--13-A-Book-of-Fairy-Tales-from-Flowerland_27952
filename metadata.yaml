@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26518'
     url: http://www.gutenberg.org/2009/agents/26518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27952#The-Enchanted-Castle--13-A-Book-of-Fairy-Tales-from-Flowerland
 gutenberg_issued: '2009-01-31'
 gutenberg_type: Text
 identifiers:
