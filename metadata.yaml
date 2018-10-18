@@ -31,6 +31,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Fairy tales'
+- GITenberg
 tableOfContents: The enchanted castle -- The fair maids of February -- The loveless
   youth -- The wind flower -- The fate of Hyacinthus -- St. Leonard and the fiery
   snake -- A fair prisoner -- The ungrateful traveler -- The star of Bethlehem --
